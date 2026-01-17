@@ -70,7 +70,7 @@ This project focuses on strengthening **JavaScript fundamentals**, especially **
 
 ## 📬 Author
 
-**Rohith Vasanthan**  
+**Rohithvasanthan E**  
 Computer Science Engineering Student  
 Aspiring Software Engineer  
 
