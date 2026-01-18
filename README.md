@@ -57,6 +57,13 @@ This project focuses on strengthening **JavaScript fundamentals**, especially **
 - Writing clean and readable frontend code  
 
 ---
+## Learning Outcomes
+
+- Strengthened understanding of JavaScript DOM manipulation
+- Improved event handling and UI state management
+- Gained hands-on experience with LocalStorage for data persistence
+- Practiced writing clean, readable, and maintainable JavaScript code
+- Learned to enhance projects incrementally with real-world features
 
 ## 🔮 Future Enhancements
 
