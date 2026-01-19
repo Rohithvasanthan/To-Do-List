@@ -2,7 +2,6 @@ const inputBox = document.getElementById("input-box");
 const listContainer = document.getElementById("list-container");
 
 
-
 function addTask(){
     if(inputBox.value === ''){
         alert("You Must Write Something !")
@@ -29,6 +28,12 @@ listContainer.addEventListener("click", function(e){
         saveData();
     }
 }, false);
+
+inputBox.addEventListener("keyup", function(event){
+    if(event.key === "Enter"){
+        addTask();
+    }
+})
 
 function saveData(){
     localStorage.setItem("data",listContainer.innerHTML);
