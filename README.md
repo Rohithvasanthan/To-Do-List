@@ -13,7 +13,7 @@ This project focuses on strengthening **JavaScript fundamentals**, especially **
 - 💾 Persistent data storage using **LocalStorage**  
 - 🎨 Clean and modern UI using pure CSS  
 - 📱 Responsive layout  
-
+- 🔮 Add tasks quickly using the Enter Key
 ---
 
 ## 🛠️ Tech Stack
