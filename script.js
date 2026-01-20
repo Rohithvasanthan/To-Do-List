@@ -1,5 +1,10 @@
 const inputBox = document.getElementById("input-box");
 const listContainer = document.getElementById("list-container");
+const todayDate = document.getElementById("today-date");
+
+
+const options = { year: "numeric", month: "long", day: "numeric" };
+todayDate.innerText = new Date().toLocaleDateString(undefined, options);
 
 
 function addTask(){
